@@ -1,9 +1,9 @@
-#that-memo
+# that-memo
 
-##What it is?
+## What it is?
 It's a tool reminding you to report your worktime to JIRA tasks. Automates process by chcecking your action history on GitHub or GitLab
 
-##Where can I get it?
+## Where can I get it?
 You can clone this repo and run it locally
 ```
  # clone repo
@@ -15,5 +15,5 @@ You can clone this repo and run it locally
  # ... and run
  npm start
  ```
-##License
+## License
 Apache-2.0
