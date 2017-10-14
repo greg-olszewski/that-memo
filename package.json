@@ -1,0 +1,26 @@
+{
+  "name": "that-memo",
+  "version": "1.0.0",
+  "description": "Tool reminding you to report your worktime to JIRA tasks. Automates process by chcecking your action history on GitHub or GitLab",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/greg-olszewski/that-memo",
+  "keywords": [
+    "Electron",
+    "that",
+    "memo",
+    "tps",
+    "report",
+    "jira",
+    "github",
+    "gitlab",
+    "reporting"
+  ],
+  "author": "Grzegorz Olszewski <grzegorz@olszewski.in>",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "electron": "~1.7.8"
+  }
+}
